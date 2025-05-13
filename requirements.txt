@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+scikit-learn
+tensorflow
+imutils                # facilita operações com imagens (opcional, mas útil)
+pillow                 # manipulação de imagens (requerido por alguns pacotes)
+jupyter                # se for disponibilizar notebooks
+python-dotenv          # útil se quiser configurar variáveis de ambiente depois
