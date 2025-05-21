@@ -51,3 +51,7 @@ python train.py
 python main.py
 ```
 
+### 7. Visualização
+
+![alt text](image.png)
+
